@@ -5,6 +5,7 @@ Welcome to the Pharmacy Assistant Desktop Application! 🏥 This application is 
 
 ![assistant1](https://github.com/amcodedman/pharmacy-desktop-application/assets/136466838/a78301f5-7778-4633-ba3d-e32a4fe5852b)
 ![assistant2](https://github.com/amcodedman/pharmacy-desktop-application/assets/136466838/6644f44f-7aa3-47c2-83b2-54e613ddd02a)
+![phaarm](https://github.com/amcodedman/pharmacy-desktop-application/assets/136466838/c735b84d-a9d9-4c3a-849e-6be90b1ff99c)
 
 
 ✨ Features
