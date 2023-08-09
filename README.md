@@ -27,6 +27,27 @@ Java Setup: Make sure you have Java (JDK) 17 or above is installed on your machi
 
 Open in IDE: Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, etc.).
 
+Install MySQL workbench
+Workbench configuration 
+AS shown below
+Use “manifest” as your Workbench configuration password 
+Or if you already have the workbench installed
+ Just
+•	Extract the project 
+•	open the  project folder 
+•	open src
+•	open database
+•	open the collections file with your IDE
+•	change the root password (“manifest”) which is shown below to your MySQL workbench password
+•	
+Final open your workbench and create your database  name “inventory”
+CREATE DATABASE inventory;
+
+
+ 
+
+
+
 Build and Run: Configure project dependencies and build the project. Run the MainApp class to launch the application.
 
 📖 Usage
